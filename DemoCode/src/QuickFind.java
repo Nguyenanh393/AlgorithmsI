@@ -75,3 +75,4 @@ public class QuickFind {
 }
 // nguồn:   code: https://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/QuickFindUF.java.html
 //          dịch: https://docs.google.com/document/d/1NRZ24nHrJ5pUigFULNx-BPZ7HZ4nRkhV0Ri3NhZOZfw/edit
+// độ phức tạp của hàm union() = O(N^2)
